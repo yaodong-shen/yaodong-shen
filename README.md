@@ -13,13 +13,13 @@ I build and study dependable AI systems—from learning under noisy and long-tai
 
 ## ✨ Quick Facts
 
-- 🎓 M.S. student in **Software Engineering at Southeast University**, previously B.Eng. in **Computer Science at Hohai University**.
+- 🎓 M.S. student in **Software Engineering at Southeast University** ([QS World University Rankings 2026: #392](https://www.topuniversities.com/universities/southeast-university)), previously B.Eng. in **Computer Science at Hohai University** ([QS World University Rankings 2026: #1001–1200](https://www.topuniversities.com/universities/hohai-university)).
 - 🧠 My work focuses on **Agent Memory**, **Agent Systems**, and **Learning under Imperfect Data**.
 - 📄 Research interests include **long-tail learning, partial-label learning, noisy supervision, and robust machine learning**.
 - 🛠️ Contributor to open-source AI projects including **QwenPaw, ms-swift, LanceDB, Docling, Feast**, and more.
 - 🚀 I enjoy building across **research, engineering, and real-world deployment**.
 - 🤝 Open to collaboration on **Agent, LLM, recommendation, and ML systems**.
-- 📫 Reach me at: [GitHub](https://github.com/yaodong-shen)
+- 📫 Reach me at: **[yaodong.shen@seu.edu.cn](mailto:yaodong.shen@seu.edu.cn)**
 
 ## What I Believe
 

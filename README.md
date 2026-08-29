@@ -11,6 +11,16 @@
 
 I build and study dependable AI systems—from learning under noisy and long-tailed labels, to retrieval, memory, and agentic applications. This page is a compact map of the work I am actively connecting across research and open source.
 
+## What I Believe
+
+### 01 — Agent is an architecture, not a model.
+
+Underlying models will keep evolving — **from today’s LLMs to future World Models and beyond** — but the core problems around **Memory, Context, Tool Use, and Runtime** will remain fundamental to intelligent agents.
+
+### 02 — Machine Learning is the transferable foundation.
+
+Model paradigms will continue to change, but a solid foundation in **Machine Learning** determines how quickly one can understand, adapt to, and build with new technologies.
+
 ## Open-Source AI Stack · Personal Focus
 
 <p align="center">

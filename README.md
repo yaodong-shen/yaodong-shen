@@ -5,7 +5,7 @@
 <p>
   <a href="https://github.com/yaodong-shen?tab=repositories"><img src="https://img.shields.io/badge/Focus-Agent%20Systems-2563eb?style=flat-square" alt="Focus: Agent Systems" /></a>
   <img src="https://img.shields.io/badge/Research-Agent%20Memory-7c3aed?style=flat-square" alt="Research: Agent Memory" />
-  <img src="https://img.shields.io/badge/Method-Long--tail%20Learning-0f766e?style=flat-square" alt="Method: Learning under Imperfect Data" />
+  <img src="https://img.shields.io/badge/Method-Learning%20under%20Imperfect%20Data-0f766e?style=flat-square" alt="Method: Learning under Imperfect Data" />
   <a href="https://github.com/yaodong-shen?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Contributor-334155?style=flat-square" alt="Open source contributor" /></a>
 </p>
 

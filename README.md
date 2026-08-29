@@ -11,6 +11,16 @@
 
 I build and study dependable AI systems—from learning under noisy and long-tailed labels, to retrieval, memory, and agentic applications. This page is a compact map of the work I am actively connecting across research and open source.
 
+## ✨ Quick Facts
+
+- 🎓 M.S. student in **Software Engineering at Southeast University**, previously B.Eng. in **Computer Science at Hohai University**.
+- 🧠 My work focuses on **Agent Memory**, **Agent Systems**, and **Learning under Imperfect Data**.
+- 📄 Research interests include **long-tail learning, partial-label learning, noisy supervision, and robust machine learning**.
+- 🛠️ Contributor to open-source AI projects including **QwenPaw, ms-swift, LanceDB, Docling, Feast**, and more.
+- 🚀 I enjoy building across **research, engineering, and real-world deployment**.
+- 🤝 Open to collaboration on **Agent, LLM, recommendation, and ML systems**.
+- 📫 Reach me at: [GitHub](https://github.com/yaodong-shen)
+
 ## What I Believe
 
 ### 01 — Agent is an architecture, not a model.

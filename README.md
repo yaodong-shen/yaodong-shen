@@ -1,16 +1,70 @@
-## Hi there 👋
+# Yaodong Shen / 申耀东
 
-<!--
-**yaodong-shen/yaodong-shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Machine Learning Researcher · Agent Builder · Open-source Contributor
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://github.com/yaodong-shen?tab=repositories"><img src="https://img.shields.io/badge/Focus-Agent%20Systems-2563eb?style=flat-square" alt="Focus: Agent Systems" /></a>
+  <img src="https://img.shields.io/badge/Research-Agent%20Memory-7c3aed?style=flat-square" alt="Research: Agent Memory" />
+  <img src="https://img.shields.io/badge/Method-Long--tail%20Learning-0f766e?style=flat-square" alt="Method: Long-tail Learning" />
+  <a href="https://github.com/yaodong-shen?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Contributor-334155?style=flat-square" alt="Open source contributor" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and study dependable AI systems—from learning under noisy and long-tailed labels, to retrieval, memory, and agentic applications. This page is a compact map of the work I am actively connecting across research and open source.
+
+## Open-Source AI Stack · Personal Focus
+
+```mermaid
+flowchart TB
+  A[Agent Systems<br/>agents · tools · real-time interaction]
+  B[Memory & Retrieval<br/>RAG · long-term memory · knowledge]
+  C[Learning & Evaluation<br/>partial labels · long-tail learning · benchmarks]
+  D[ML Systems Foundation<br/>documents · features · data infrastructure]
+
+  D --> C --> B --> A
+
+  classDef agent fill:#dbeafe,stroke:#2563eb,color:#172554,stroke-width:2px;
+  classDef memory fill:#ede9fe,stroke:#7c3aed,color:#2e1065,stroke-width:2px;
+  classDef learning fill:#dcfce7,stroke:#15803d,color:#14532d,stroke-width:2px;
+  classDef foundation fill:#e2e8f0,stroke:#475569,color:#0f172a,stroke-width:2px;
+
+  class A agent;
+  class B memory;
+  class C learning;
+  class D foundation;
+```
+
+| Layer | What I work on | Connected open-source projects |
+| --- | --- | --- |
+| **Agent Systems** | Agent building, multi-agent collaboration, real-time multimodal interaction | [QwenPaw](https://github.com/agentscope-ai/QwenPaw) · [LiveKit Agents](https://github.com/livekit/agents) · [agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) |
+| **Memory & Retrieval** | RAG orchestration, local-first memory, document understanding and retrieval | [Haystack](https://github.com/deepset-ai/haystack) · [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) · [Basic Memory](https://github.com/basicmachines-co/basic-memory) · [LanceDB](https://github.com/lancedb/lancedb) · [Docling](https://github.com/docling-project/docling) |
+| **Learning & Evaluation** | Partial-label learning, long-tail robustness, model training and evaluation | [ms-swift](https://github.com/modelscope/ms-swift) · [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) |
+| **ML Systems Foundation** | Reusable data and feature infrastructure | [Feast](https://github.com/feast-dev/feast) |
+
+## Research
+
+| Work | Focus | Current status |
+| --- | --- | --- |
+| **AdapMatch** | Adaptive bias decoupling for semi-supervised partial-label learning under unknown class distributions | Under review · NeurIPS 2026 · Student first author |
+| **Three Stones, One Bird** | Generalization-error-bound-guided noisy partial-label learning | Under review · TPAMI 2026 · Student first author |
+
+## Selected Open-Source Contributions
+
+Every entry below links to a merged pull request. I keep the scope broad deliberately: the projects form the systems map above, rather than a collection of isolated patches.
+
+| Project | Contribution area | Merged PR |
+| --- | --- | --- |
+| [Docling](https://github.com/docling-project/docling) | Document parsing and structured conversion | [#3954](https://github.com/docling-project/docling/pull/3954) |
+| [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | Personal AI agent and extensible skills | [#6502](https://github.com/agentscope-ai/QwenPaw/pull/6502) |
+| [Haystack](https://github.com/deepset-ai/haystack) | LLM-agent and RAG orchestration | [#12218](https://github.com/deepset-ai/haystack/pull/12218) |
+| [ms-swift](https://github.com/modelscope/ms-swift) | LLM and multimodal training | [#9832](https://github.com/modelscope/ms-swift/pull/9832) |
+| [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) | Language-model evaluation | [#3959](https://github.com/EleutherAI/lm-evaluation-harness/pull/3959) |
+| [LiveKit Agents](https://github.com/livekit/agents) | Real-time voice and multimodal agents | [#6501](https://github.com/livekit/agents/pull/6501) |
+| [LanceDB](https://github.com/lancedb/lancedb) | Multimodal retrieval database | [#3699](https://github.com/lancedb/lancedb/pull/3699) |
+| [Feast](https://github.com/feast-dev/feast) | Feature-store infrastructure | [#6697](https://github.com/feast-dev/feast/pull/6697) |
+| [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) | Self-evolving retrieval agent | [#1410](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1410) |
+| [Basic Memory](https://github.com/basicmachines-co/basic-memory) | Local-first Markdown memory and knowledge graph | [#1348](https://github.com/basicmachines-co/basic-memory/pull/1348) |
+| [agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) | Expert-collaboration multi-agent framework | [#832](https://github.com/agentuniverse-ai/agentUniverse/pull/832) |
+
+---
+
+<sub>Profile design: a systems-layer view inspired by open-source AI ecosystems. Facts and links are maintained in this repository.</sub>

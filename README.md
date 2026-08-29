@@ -1,4 +1,4 @@
-# Yaodong Shen / 申耀东
+# Yaodong Shen 
 
 > Machine Learning Researcher · Agent Builder · Open-source Contributor
 

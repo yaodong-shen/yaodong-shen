@@ -13,25 +13,9 @@ I build and study dependable AI systems—from learning under noisy and long-tai
 
 ## Open-Source AI Stack · Personal Focus
 
-```mermaid
-flowchart TB
-  A[Agent Systems<br/>agents · tools · real-time interaction]
-  B[Memory & Retrieval<br/>RAG · long-term memory · knowledge]
-  C[Learning & Evaluation<br/>partial labels · long-tail learning · benchmarks]
-  D[ML Systems Foundation<br/>documents · features · data infrastructure]
-
-  D --> C --> B --> A
-
-  classDef agent fill:#dbeafe,stroke:#2563eb,color:#172554,stroke-width:2px;
-  classDef memory fill:#ede9fe,stroke:#7c3aed,color:#2e1065,stroke-width:2px;
-  classDef learning fill:#dcfce7,stroke:#15803d,color:#14532d,stroke-width:2px;
-  classDef foundation fill:#e2e8f0,stroke:#475569,color:#0f172a,stroke-width:2px;
-
-  class A agent;
-  class B memory;
-  class C learning;
-  class D foundation;
-```
+<p align="center">
+  <img src="./open-source-ai-stack-overview.png" alt="Open-source AI stack overview, from ML systems foundations to agent systems" width="100%" />
+</p>
 
 | Layer | What I work on | Connected open-source projects |
 | --- | --- | --- |

@@ -13,8 +13,6 @@ I build and study dependable AI systems—from learning under noisy and long-tai
 
 ## ✨ Quick Facts
 
-可以在Quick Facts 中 加入
-
 - 🛠️ I’m a serial entrepreneur exploring **AI × Hardware**. My current venture focuses on **AI-driven sleep intervention** and was selected for incubation within **Prof. Zexiang Li’s entrepreneurship ecosystem behind DJI and XbotPark**, with **RMB 500K in initial funding**.  放在 第一条
 - 🎓 M.S. student in **Software Engineering at Southeast University** ([QS World University Rankings 2026: #392](https://www.topuniversities.com/universities/southeast-university)), previously B.Eng. in **Computer Science at Hohai University** ([QS World University Rankings 2026: #1001–1200](https://www.topuniversities.com/universities/hohai-university)).
 - 🧠 My work focuses on **Agent Memory**, **Agent Systems**, and **Learning under Imperfect Data**.

@@ -9,8 +9,6 @@
   <a href="https://github.com/yaodong-shen?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Contributor-334155?style=flat-square" alt="Open source contributor" /></a>
 </p>
 
-I build and study dependable AI systems—from learning under noisy and long-tailed labels, to retrieval, memory, and agentic applications. This page is a compact map of the work I am actively connecting across research and open source.
-
 ## ✨ Quick Facts
 
 - 💡 I’m a serial entrepreneur exploring **AI × Hardware**. My current venture focuses on **AI-driven sleep intervention** and was selected for incubation within **Prof. Zexiang Li’s entrepreneurship ecosystem behind DJI and XbotPark**, with **RMB 500K in initial funding**. 
